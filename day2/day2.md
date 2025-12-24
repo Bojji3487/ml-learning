@@ -4,7 +4,7 @@
 <h3>Insufficient quantity of training data</h3>
 Since ML is not at a stage where the models can learn seemingly simple things faster than humans. They need a lot of training data to be fed on.
 But sometimes collecting, validating and organizing huge amount of data can be really costly, and the model doesn't get trained well due to lack of data quantity.
-<img src="./image.png">
+<img src="./data_effectiveness.png">
 <h3>
 Nonrepresentative Training Data
 </h3>
